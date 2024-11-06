@@ -2,36 +2,7 @@
 
 # ELECTENG 209 Project Repository
 
-This is a repository to be used by all team members to store your ELECTENG 209 project files.
-> [!IMPORTANT]
-> Use this repository to store all of your project work, including your LTspice models, PCB design, firmware written with Atmel Studio, Proteus simulations, etc.
 
-You may create as many folders and files as you wish.
-
-To get started, you should:
-1. Decide whether your team wishes to use the [advanced structure](./Advanced/) or the [basic structure](./Basic/).
-2. Delete the folder that you choose *not* to use.
-3. Move the inner folders (excluding the `README.md` file in the chosen `Basic/` or `Advanced/` folder) of your chosen structure to the top-level of the repository.
-4. Delete the empty `Basic/` or `Advanced/` folder together with its `README.md` file.
-
-## 🗃 Project Management
-
-A variety of GitHub project management templates have been provided to you, which you may choose to use:
-
-| GitHub Feature                                                          | Potential Application                                                                                                        |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [**Projects**](https://github.com/orgs/uoa-ece209/projects/3?pane=info) | To get a big-picture view of all the tasks within your project, and their statuses.                                          |
-| [**Issues**](../../issues)                                              | To track each individual project task.                                                                                       |
-| [**Wikis**](../../wiki)                                                 | To store your team contract, meeting agendas/minutes, team logbooks, theoretical calculations, technical documentation, etc. |
-| [**Pull Requests**](../../pulls)                                        | To review new changes as a team before they are merged into `main`.                                                          |
-
-- Refer to [`CONTRIBUTING.md`](./.github/CONTRIBUTING.md) for a suggested possible workflow using these features.
-- You may also consult the TAs for further advice and guidance.
-- See [**❔ Extra Help**](#-extra-help) for places to find extra help.
-
-> [!NOTE]
-> You are not limited to just these.  
-> You may use hard-copy logbooks instead of digital tools.
 
 ## 🎯 Design Specifications
 
@@ -53,11 +24,3 @@ A variety of GitHub project management templates have been provided to you, whic
 | PCB Technology                   | Double Layer with PTH                       |
 | Device Technology                | TH or SMT                                   |
 
-## ❔ Extra Help
-
-For help on using Git and GitHub, you may:
-1. Refer to the **`Getting Started with GitHub`** workshop provided on Canvas
-2. Ask a question on Slack or Ed Discussion
-3. Ask a TA for help
-4. Refer to https://git-scm.com/book/en/v2
-5. Search the internet!
